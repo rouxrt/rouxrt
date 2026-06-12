@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi, I'm Roberto. I hold a BSc in Physics and I'm currently completing my Master's thesis in Data Science. My research focuses on developing Physics-Informed Neural Operators (PINO) to solve highly ill-posed inverse problems in Astrophysics (specifically ALMA datacube deconvolution). Fluent in PyTorch, and PDE modeling.
 <!--
 **rouxrt/rouxrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
