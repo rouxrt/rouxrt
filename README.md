@@ -5,7 +5,7 @@ I hold a BSc in Physics and I am currently completing my Master's thesis in Data
 
 Currently, I am developing **Physics-Informed Neural Operators (PINO)** to solve highly ill-posed inverse problems in Astrophysics (specifically, interferometric ALMA datacube deconvolution). 
 
-**Recent Collaborative Work:** Contributed to the architecture and training pipeline of Inverse PINNs for image super-resolution, part of a research paper currently under peer-review for the IEEE eScience 2026 conference (see pinned repository below).
+**Recent Collaborative Work:** Contributed to the architecture and training pipeline of Inverse PINNs for image super-resolution, part of a research paper accepted for the IEEE eScience 2026 conference (see pinned repository below).
 
 **Core Expertise:** PyTorch, Scientific Machine Learning (SciML), PDE modeling, and Python.
 <!--
